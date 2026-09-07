@@ -1,0 +1,13 @@
+Players:
+Letticia
+Rafalea
+
+Hand 1:
+Jane: 18
+Letticia: 18
+Rafalea: 20
+
+Hand 2:
+Jane: 21
+Letticia: 10
+Rafalea: 20
